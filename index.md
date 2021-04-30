@@ -1,6 +1,7 @@
 ## Dokumentasi
 
 Seluruh dokumentasi alat [Automatic Corotion Device] terdapat dalam website ini
+##### Terakhir diupdate pada 30 April 2021
 
 ### Spesifikasi Alat
 - Terdapat dua port pada alat [USB Tipe B, Port Voltase]
@@ -10,27 +11,30 @@ Seluruh dokumentasi alat [Automatic Corotion Device] terdapat dalam website ini
 - Tegangan dapat diatur menggunakan adapter variabel
 - Proses pencatatan data ke dalam SD Card dilakukan setiap 1 menit
 
+## Memulai
+- Silahkan masukan kabel USB tipe B pada bagian atas alat [Bagian atas alat ditandai dengan A]
+- Silahkan masukan kabel Voltase dari adapter
+- Alat membutuhkan waktu 10-20 Detik untuk bisa beroperasi
+
+## Mengukur Tegangan
+- Untuk memulai mengukur tegangan dan arus, pastikan anda telah melakukan semua yang ada di bagian [Memulai]
+- Silahkan memasukan kabel pengukur pada port channel yang telah tersedia
+- Pada umumnya kabel pengukur warna merah masuk ke port channel warna merah, kabel pengukur warna biru masuk ke port channel warna hitam
+- Tegangan dapat mulai diukur 
+
+##### Catatan Penting!
+Dilarang untuk menyentuhkan kabel pengukur warna merah dan kabel pengukur warna biru saat tegangan melebihi 8V, dengan melakukan ini terdapat kemungkinan akan terjadi hubungan singkat di alat
+
 ### Pesan Error dan Penanganannya
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### SD404 : SD Card tidak dapat ditemukan
+- Lepaskan semua kabel yang terkoneksi ke alat
+- Masukan SD Card tipe SDHC dengan kapasitas 2GB sampai 16GB
+- Nyalakan kembali alat
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+#### LCD Tidak berubah dalam waktu yang cukup lama
+- Lepaskan semua kabel yang terkoneksi ke alat
+- Berikan jeda sekitar 1 menit kemudian dicoba pasang kembali
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
