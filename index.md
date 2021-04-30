@@ -1,10 +1,16 @@
-## Welcome to GitHub Pages
+## Dokumentasi
 
-You can use the [editor on GitHub](https://github.com/mdoacx/corotiondevice/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Seluruh dokumentasi alat [Automatic Corotion Device] terdapat dalam website ini
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Spesifikasi Alat
+- Terdapat dua port pada alat [USB Tipe B, Port Voltase]
+- Port Voltase dapat beroperasi pada tegangan 1V - 24V, 1A
+- Terdapat 4 channel yang dapat digunakan
+- Mendukung SD Card tipe SDHC dengan kapasitas 2GB - 16GB
+- Tegangan dapat diatur menggunakan adapter variabel
+- Proses pencatatan data ke dalam SD Card dilakukan setiap 1 menit
 
-### Markdown
+### Pesan Error dan Penanganannya
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
