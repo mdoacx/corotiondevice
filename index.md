@@ -11,6 +11,15 @@ Seluruh dokumentasi alat [Automatic Corotion Device] terdapat dalam website ini
 - Tegangan dapat diatur menggunakan adapter variabel
 - Proses pencatatan data ke dalam SD Card dilakukan setiap 1 menit
 
+## PERHATIAN!
+- Anda bisa melakukan pengaturan limit korosi di SD Card yang tersedia
+! Tidak boleh menghapus file CONFIG.txt : Penghapusan file config.txt dapat menyebabkan alat tidak dapat berfungsi dengan baik
+! Setiap baris di file CONFIG.txt mewakili 1 channel di alat
+! Baris 1 Mewakili Channel 1
+! Baris 2 Mewakili Channel 2
+! Baris 3 Mewakili Channel 3
+! Baris 4 Mewakili Channel 4
+
 ## A.Memulai
 - Silahkan masukan kabel USB tipe B pada bagian atas alat [Bagian atas alat ditandai dengan A]
 - Silahkan masukan kabel Voltase dari adapter
@@ -23,7 +32,7 @@ Seluruh dokumentasi alat [Automatic Corotion Device] terdapat dalam website ini
 - Tegangan dapat mulai diukur 
 
 ##### Catatan Penting!
-Dilarang untuk menyentuhkan kabel pengukur warna merah dan kabel pengukur warna biru saat tegangan melebihi 8V, dengan melakukan ini terdapat kemungkinan akan terjadi hubungan singkat di alat
+> Dilarang untuk menyentuhkan kabel pengukur warna merah dan kabel pengukur warna biru saat tegangan melebihi 8V, dengan melakukan ini terdapat kemungkinan akan terjadi hubungan singkat di alat
 
 ### Pesan Error dan Penanganannya
 
