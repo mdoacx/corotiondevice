@@ -13,12 +13,12 @@ Seluruh dokumentasi alat [Automatic Corotion Device] terdapat dalam website ini
 
 ## PERHATIAN!
 - Anda bisa melakukan pengaturan limit korosi di SD Card yang tersedia
-! Tidak boleh menghapus file CONFIG.txt : Penghapusan file config.txt dapat menyebabkan alat tidak dapat berfungsi dengan baik
-! Setiap baris di file CONFIG.txt mewakili 1 channel di alat
-! Baris 1 Mewakili Channel 1
-! Baris 2 Mewakili Channel 2
-! Baris 3 Mewakili Channel 3
-! Baris 4 Mewakili Channel 4
+- Tidak boleh menghapus file CONFIG.txt : Penghapusan file config.txt dapat menyebabkan alat tidak dapat berfungsi dengan baik
+- Setiap baris di file CONFIG.txt mewakili 1 channel di alat
+- Baris 1 Mewakili Channel 1
+- Baris 2 Mewakili Channel 2
+- Baris 3 Mewakili Channel 3
+- Baris 4 Mewakili Channel 4
 
 ## A.Memulai
 - Silahkan masukan kabel USB tipe B pada bagian atas alat [Bagian atas alat ditandai dengan A]
@@ -31,10 +31,15 @@ Seluruh dokumentasi alat [Automatic Corotion Device] terdapat dalam website ini
 - Pada umumnya kabel pengukur warna merah masuk ke port channel warna merah, kabel pengukur warna biru masuk ke port channel warna hitam
 - Tegangan dapat mulai diukur 
 
-##### Catatan Penting!
-> Dilarang untuk menyentuhkan kabel pengukur warna merah dan kabel pengukur warna biru saat tegangan melebihi 8V, dengan melakukan ini terdapat kemungkinan akan terjadi hubungan singkat di alat
+## C. Selesai
+- Setelah selesai melakukan pengukuran, silahkan mencabut semua kabel yang ada di channel terlebih dahulu
+- Cabut kabel daya untuk alat
+- Cabut kabel daya untuk pengukuran
 
-### Pesan Error dan Penanganannya
+##### Catatan Penting!
+> Dilarang untuk menyentuhkan kabel pengukur warna merah dan kabel pengukur warna biru saat tegangan melebihi 5V, dengan melakukan ini terdapat kemungkinan akan terjadi hubungan singkat di alat yang dapat menyebabkan KEBAKARAN pada alat
+
+### TROUBLESHOOT
 
 #### SD404 : SD Card tidak dapat ditemukan
 - Lepaskan semua kabel yang terkoneksi ke alat
@@ -44,3 +49,5 @@ Seluruh dokumentasi alat [Automatic Corotion Device] terdapat dalam website ini
 #### LCD Tidak berubah dalam waktu yang cukup lama
 - Lepaskan semua kabel yang terkoneksi ke alat
 - Berikan jeda sekitar 1 menit kemudian dicoba pasang kembali
+
+Jika ada pesan atau kejadian anomali, dapat menghubungi tim macx untuk informasi lebih lanjut
